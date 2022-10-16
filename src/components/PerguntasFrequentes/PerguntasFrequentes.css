@@ -1,0 +1,48 @@
+.redLineBottom {
+    background-color: #e95051fe;
+    box-shadow: blue 0px 0px 0px 0px;
+    height: 2px;
+    width: 186px;
+    left: 40px;
+    left: -40px;
+}
+.perguntasImg img {
+    height: 456px;
+    width: 341px;
+    min-height: 200px;
+    border: 0px none rgb(0, 0, 0);
+    box-shadow: blue 0px 0px 0px 0px;
+    z-index: 2;
+    position: relative;
+}
+
+.perguntasImg:before {
+    content: '';
+    position: absolute;
+    background: rgba(233, 80, 81, 0.996);
+    height: 444px;
+    width: 341px;
+    min-height: 50px;
+    border: 0px none rgba(233, 80, 81, 0.996);
+    box-shadow: blue 0px 0px 0px 0px;
+    top: 26px;
+    left: 20px;
+    left: 20px;
+    z-index: 1;
+}
+
+.perguntasFrequenteSec {
+    background: rgba(0, 0, 0, 0.992);
+    color: rgb(255, 255, 255);
+    height: 1155px;
+    min-height: 200px;
+}
+
+.frequentesItem h5 {
+    font-weight: bold;
+}
+
+.frequentesItem p {
+    border-left: 2px solid #e95051fe;
+    padding-left: 22px;
+}

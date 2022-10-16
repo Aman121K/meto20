@@ -1,0 +1,13 @@
+.e-book-heading{
+    font-size: 20px;
+}
+.span-1-text{
+    font-size: 25px;
+    font-weight: 700;
+    text-decoration: line-through;
+}
+.span-2-text{
+    font-size: 25px;
+    font-weight: 700;
+    color: #6ecf72;
+}

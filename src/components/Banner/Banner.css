@@ -1,0 +1,9 @@
+.hero-image {
+        background-image: url("/public/Assets/banner.jpg");
+        object-fit:cover ;
+        background-position:center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        /* display: flex;
+        justify-content: center; */
+}

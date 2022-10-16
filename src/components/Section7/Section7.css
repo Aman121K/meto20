@@ -1,0 +1,33 @@
+.section-bg-img{
+    background: url("https://storage.builderall.com//franquias/2/7235434/editor-html/10428039.png");
+    background-position-x: right;
+    background-position-y: center;
+    background-size: cover;
+}
+.first-col{
+    background: url("https://storage.builderall.com//franquias/2/7235434/editor-html/10456832.png");
+    background-position-x: right;
+    background-position-y: center;
+    background-size: cover;
+    height: 330px;
+    width: 270px;
+    border-radius: 5px;
+}
+.second-col{
+    background: url("https://storage.builderall.com//franquias/2/7235434/editor-html/10456856.png");
+    background-position-x: right;
+    background-position-y: center;
+    background-size: cover;
+    height: 330px;
+    width: 270px;
+    border-radius: 5px;
+}
+.third-col{
+    background: url("https://storage.builderall.com//franquias/2/7235434/editor-html/10456923.png");
+    background-position-x: right;
+    background-position-y: center;
+    background-size: cover;
+    height: 330px;
+    width: 270px;
+    border-radius: 5px;
+}
